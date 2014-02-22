@@ -14,7 +14,7 @@ a:hover {
 }
 h1{
   float: right;
-  font-family: 'Sigmar+One',sans-serif;
+  font-family: 'Sigmar One',sans-serif;
   color: #8793B2;
   font-size: 5.750em;
   letter-spacing: -1.5px;
@@ -34,8 +34,8 @@ h3 {
 
 
 ul.nav{
-  font-family: 'Sigmar+One',sans-serif;
-  font-size: 3.250em;
+  font-family: 'Sigmar One',sans-serif;
+  font-size: 3.000em;
   color: #8793B2;
   margin: 70px 0 0px 0;
   list-style: none;
