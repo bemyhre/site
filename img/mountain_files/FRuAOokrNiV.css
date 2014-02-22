@@ -1,0 +1,116 @@
+/*!CK:803752221!*//*1392693068,178201885*/
+
+._5ud-{margin-left:auto;margin-right:0}
+._5ud_{width:100%}
+._6a5{overflow:hidden;width:100%}
+._4311{padding-right:12px;text-align:right}
+.hideBanner .fbPageBanner,
+.fixedBody .fbPageBanner{display:none}
+.fbPageBannerInner{margin:auto;width:980px}
+.sidebarMode .fbPageBannerInner{left:-102px;position:relative}
+.friendBrowserCheckboxFilters{width:200px;margin:0 auto;float:left}
+.friendBrowserCheckboxFilterHeader{margin-bottom:3px}
+.friendBrowserCheckboxFilterTypeahead{margin-top:3px}
+.friendBrowserCheckboxFilterTypeahead .friendBrowserSearchInput{width:192px}
+.friendBrowserCheckboxContent{width:493px;float:right;position:relative}
+.friendBrowserCheckboxContentOnload{opacity:.3}
+.friendBrowserSubTitle{margin-top:2px;margin-bottom:15px}
+.friendBrowserHeader{margin-bottom:15px}
+.friendBrowserPage{width:713px}
+.friendBrowserPage label{color:#333;font-weight:normal}
+.friendBrowserTypeahead .DOMControl_placeholder{color:#bbb}
+.friendBrowsingCheckboxContentLoadingIndicator{position:absolute;z-index:1;top:90px;left:50%}
+.friendBrowserGrid{width:100%}
+.friendBrowserBlankState{position:relative;text-align:center;top:100px}
+.friend_browser_page_name_box{min-height:65px;line-height:15px;text-align:left;width:100px}
+.friend_browser_page_name_box.huger{min-height:0;padding-top:5px;margin-right:7px;width:112px}
+.friend_browser_addfriend_icon{margin:4px 4px 0 0}
+.friendBrowserRequesting .friendBrowserMutualFriendLink, .friendBrowserRequested .friendBrowserMutualFriendLink, .friendBrowserRequesting .friendBrowserSendingMessage, .friendBrowserRequested .friendBrowserUndoLink{display:none}
+.friendBrowserRequesting .friendBrowserPicture, .friendBrowserRequested .friendBrowserPicture{opacity:.3}
+.friendBrowserExtraSpacing{margin:3px 0}
+.friendBrowserPhotoWrapper{height:75px;width:75px}
+.friendBrowserPhotoCrop{background:#eee;height:75px;width:75px;overflow:hidden;position:absolute}
+div.friendBrowserContentAlignMiddle{height:75px;vertical-align:middle !important}
+.friendBrowserMarginTopTiny{margin-top:2px}
+.friendBrowserMarginTopMini{margin-top:4px}
+.friendBrowserAuxAlignMiddle{margin-top:26px}
+.friendBrowserUnit .photoContainer{position:relative}
+.friendBrowserUnit .closeButtonContainer{left:80px;position:absolute;top:3px;visibility:hidden}
+.friendBrowserUnit .closeButtonContainer.huger{left:94px}
+.friendBrowserPicture.huger{height:112px;width:112px}
+.friendBrowserUnit .smallButton .closeButtonContainer{top:-3px}
+.friendBrowserUnit .horizontalLayout .closeButtonContainer{left:172px}
+.friendBrowserUnit:hover .discardable .closeButtonContainer, .friendBrowserUnit .discardable .closeButtonContainer.visibleClose{visibility:visible}
+.gridUnitPlaceholder{width:110px}
+.localeCustomLayout .friendBrowserUnit{padding:6px 0 2px 0}
+#mobile_mirror_banner{position:relative;z-index:300}
+._4_37{margin-left:205px}
+._4kdq ._4_37, ._5ap2 ._4_37, ._5bci ._4_37{margin-left:56px}
+.sidebarMode ._5bci ._4_37, .sidebarMode ._5ap2 ._4_37{margin-right:205px}
+._4kdq ._5ap2 ._4_37{margin-right:0}
+._4_l-{z-index:300}
+._58g_ .megaphone_story_wrapper{margin-bottom:9px;margin-top:3px}
+._58g_ .megaphone_box{background-color:#fff;border:1px solid #d4d5d8;border-left-color:#d3d5db;-webkit-border-radius:3px;border-right-color:#d3d5db;padding:12px}
+._58g_ .megaphone_story .title, ._58g_ .megaphone_story .megaphone_title{color:#141823;font-size:14px;font-weight:bold;line-height:14px;margin-bottom:2px}
+._58g_ .megaphone_story .megaphone_content{color:#141823;font-size:12px;line-height:16px;max-width:494px}
+._58g_ .megaphone_story .megaphone_img_block_body .megaphone_content{max-width:370px}
+._58g_ .megaphone_action{margin-top:13px}
+._580k{margin:4px 0 4px 4px}
+._580k .img{margin-right:16px}
+._58g_ .megaphone_hide_link{margin-right:2px;margin-top:2px}
+._5848.megaphone_story_wrapper{margin-bottom:6px;margin-left:auto;margin-right:auto;width:924px}
+._58g_ textarea, ._58g_ .inputtext, ._58g_ .inputpassword{border:1px solid #d3d6db}
+._6nw ._58g_._5848 .megaphone_box{border:none;-webkit-border-radius:none;padding:13px 0 17px 0;width:924px}
+._5847{background-color:#fff;border-bottom:1px solid #c3c4c6;left:0;position:absolute;width:100%}
+._5848 .megaphone_story .title, ._5848 .megaphone_story .megaphone_title{font-size:18px}
+._5848._58g_ .megaphone_story .megaphone_img_block_body .megaphone_content{max-width:100%}
+._5848._58g_ .megaphone_story .megaphone_content{color:#6a7180;line-height:18px;margin-top:2px;max-width:100%}
+.megaphone_story_wrapper{margin-bottom:20px}
+.dialog_content .megaphone_story_wrapper{margin-bottom:0}
+.megaphone_story{position:relative;overflow:hidden}
+.megaphone_story .megaphone_content{font-size:11px}
+.megaphone_story .megaphone_hide_link{float:right}
+.megaphone_story_highlighted{background-color:#fcf5d0;border:1px solid #cbb631}
+.megaphone_box{background-color:#f6f7f8;border:1px dashed #ced5e5}
+.hasLeftCol .megaphone_box{border-width:0 0 1px 0;margin-left:-20px;margin-top:-15px}
+#headerArea .megaphone_box{margin-right:-20px;margin-top:-17px}
+#headerArea .megaphone_location_new_group_profile .megaphone_box{margin:0 0 2px 0}
+.megaphone_location_new_group_profile .megaphone_action{margin-top:2px}
+#megaphone_story_1622{margin-bottom:0}
+.megaphone_location_friends{margin:0}
+.megaphone_location_privacy{margin-left:auto;margin-right:auto;width:760px}
+.timelineLayout .megaphone_location_managed_profile_admin .megaphone_box{border-top:1px dashed #ced5e5}
+.fbHubsTypeaheadThrobber{display:none;position:absolute;right:6px;top:5px}
+.typeaheadLoading .fbHubsTypeaheadThrobber{display:block}
+._5k7d{margin-left:3px;position:relative;top:1px}
+._5lwd, ._5lwc{-webkit-border-radius:4px;min-height:8px}
+._5lwd{background-color:#fff;border:1px solid #e1e5ef;overflow:hidden}
+._5lwc{background:#4b79c2;background:-webkit-gradient(linear, center top, center bottom, from(#507ec7), to(#426eb5));background:-webkit-linear-gradient(#507ec7, #426eb5);height:100%}
+.sp_3fvxec{background-image:url(/rsrc.php/v2/yB/r/hfj5Rn8MgdO.png);background-size:auto;background-repeat:no-repeat;display:inline-block;height:13px;width:35px}
+.sx_7fc3f5{height:35px;background-position:0 0}
+.sx_ab32c7{height:35px;background-position:0 -36px}
+.sx_f87069{height:35px;background-position:0 -72px}
+.sx_abc6db{height:35px;background-position:0 -108px}
+.sx_32ce36{height:35px;background-position:0 -144px}
+.sx_05f036{width:16px;height:16px;background-position:0 -180px}
+.sx_862395{width:10px;height:16px;background-position:-17px -180px}
+.sx_881d77{width:9px;height:16px;background-position:0 -197px}
+.sx_9d5532{width:8px;background-position:-20px -211px}
+.sx_37811a{width:11px;background-position:-10px -197px}
+.sx_932b48{width:9px;background-position:-22px -197px}
+.sx_28ed98{width:9px;background-position:0 -214px}
+.sx_1042f6{width:9px;background-position:-10px -211px}
+.sp_8fkw3z{background-image:url(/rsrc.php/v2/yF/r/AsAytXg-8m7.png);background-size:auto;background-repeat:no-repeat;display:inline-block;height:20px;width:20px}
+.sx_ca5b00{width:12px;height:12px;background-position:0 -84px}
+.sx_b54327{width:12px;height:12px;background-position:0 -97px}
+.sx_36a8fc{background-position:0 0}
+.sx_738c08{background-position:0 -21px}
+.sx_ddf684{background-position:0 -42px}
+.sx_71cd81{background-position:0 -63px}
+.photoTypeahead .photo{display:none;height:16px;left:3px;position:absolute;top:2px;width:16px}
+.photoTypeahead .selected .photo{display:block}
+.photoTypeahead .selected .textInput{padding-left:23px}
+.photoTypeahead.uiTypeaheadDisabled .selected .photo{opacity:.30}
+
+#bootloader_7LXxx { height: 42px; }
+.bootloader_7LXxx { display:block !important; }

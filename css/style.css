@@ -1,0 +1,75 @@
+body {
+  font-family: 'Artifika',sans-serif;
+  color: #B8CC9B;
+  background: #DBE5FF
+}
+
+a {
+  color: #A4B290;
+  text-decoration: none;
+}
+
+a:hover {
+	color:#5e667c;
+}
+h1{
+  float: right;
+  font-family: 'Sigmar+One',sans-serif;
+  color: #8793B2;
+  font-size: 5.750em;
+  letter-spacing: -1.5px;
+  margin: 10px 0px 0px 0px;
+
+}
+
+h2 {
+  font-size: 3.000em;
+  color: #8793B2;
+}
+
+h3 {
+  font-size: 2.000em;
+  color: #8793B2;
+}
+
+
+ul.nav{
+  font-family: 'Sigmar+One',sans-serif;
+  font-size: 3.250em;
+  color: #8793B2;
+  margin: 70px 0 0px 0;
+  list-style: none;
+  float:left;
+}
+
+ul.nav li {
+  float: left;
+  margin-right: 40px;
+
+}
+
+
+#my_face img{
+  border: 8px solid #B8CC9B;
+  margin: 0 0 20px 10px;
+  float: right;
+}
+
+#hops img{
+  border: 8px solid #B8CC9B;
+  margin: 10px 20px 0px 0px;
+  float: left;
+}
+
+#mountain img{
+  border: 8px solid #B8CC9B;
+  margin: 0 0 20px 10px;
+  float: right;
+}
+
+#bacon {
+  border: 8px solid #B8CC9B;
+  margin: 0 0 20px 10px;
+  float: right;
+}
+
